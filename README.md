@@ -1,2 +1,2 @@
 # Python_Games
-Small number games to learn python programming
+Simple number games to learn python programming
